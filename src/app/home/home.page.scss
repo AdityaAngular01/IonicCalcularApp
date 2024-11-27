@@ -1,0 +1,24 @@
+ion-grid{
+  margin-top: 5rem;
+}
+ion-row:nth-child(2){
+  // margin-top: 10rem;
+}
+.key{
+  ion-col{
+    text-align: center;
+    height: 6rem;
+    ion-button{
+      height: 100%;
+      width: 100%;
+      font-size: 1.5rem;
+      font-weight: 600;
+      letter-spacing: 0.1rem;
+    overflow: hidden;
+
+    }
+  }
+}
+
+
+
